@@ -7,11 +7,25 @@ a {
 }
 
 body {
+	font-family: arial, helvetica, sans-serif;
     font-size: 14px;
     color: navy;
 }
 
 h1 {
+	font-size: 2em;
     color: #ffc;
     background-color: #009;
+}
+
+h2	{
+	 font-size: 1.5em;
+}
+
+a	{
+	 text-decoration: none;
+	 
+strong	{
+	 font-style: italic;
+	 text-transform: uppercase;
 }
